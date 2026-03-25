@@ -48,7 +48,7 @@ I plan to continuously improve my skills, build projects, and maintain an active
 ---
 
 ## 🤝 Let's Connect
-- LinkedIn: (Add your profile link here)  
+- LinkedIn: (https://www.linkedin.com/feed/)  
 - GitHub: https://github.com/adarshthelegend21  
 
 ---
